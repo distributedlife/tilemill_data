@@ -1,0 +1,268 @@
+Name,lat,long,icon
+Canberra,-35.28282,149.12782,capital
+Sydney,-33.85498,151.21348,city
+Broken Hill,-31.9605303,141.4579038,city
+Adelaide,-34.92165,138.5974,city
+Cook,-30.6130764,130.413374,city
+Kalgoorlie,-30.7464139,121.473223,city
+Perth,-31.95159,115.861,city
+Fremantle,-32.05204,115.74508,city
+Margaret River,-33.95365,115.07694,city
+Yulara,-25.24201,130.98554,city
+Uluru,-25.35534,131.03398,unesco
+Kata Tjuta,-25.30023,130.72406,unesco
+Alice Springs,-23.69816,133.8814,city
+Melbourne,-37.81659,144.951,city
+Tamworth,-31.09185,150.93098,city
+Byron Bay,-28.64329,153.61408,city
+Coolangatta,-28.16855,153.53868,city
+Goulburn,-34.7523871,149.7198009,city
+South Durras,-35.66583,150.29986,city
+Batemans Bay,-35.7072183,150.178289,city
+Broulee,-35.8483333,150.1677778,city
+Merimbula,-36.8882027,149.909846,city
+Nowra,-34.8741198,150.6004709,city
+Kangaroo Valley,,,viewpoint
+Paris,48.8565056,2.3521334,capital
+Edinburgh,55.94822,-3.1934,capital
+Falkirk,55.997286,-3.7868533,city
+Stirling,56.1181242,-3.9360012,city
+Oban,56.415157,-5.471047,city
+Fort William,56.819817,-5.105218,city
+Broadford,57.242378,-5.913865,city
+Ullapool,57.89784,-5.15866,city
+Durness,58.568414,-4.747103,city
+John o'Groats,58.64336,-3.06883,city
+Wick,58.4384988,-3.0884177,castle
+Inverness,57.477773,-4.224721,city
+Aberdeen,57.149717,-2.094278,city
+Saint Andrews,56.339316,-2.7965,
+Dufftown,57.443623,-3.12838,distillery
+Glasgow,55.85978,-4.24039,city
+Tallisker,57.30313160166475,-6.35708212852478,distillery
+The Storr,57.507017313689936,-6.182041168212891,viewpoint
+Braemar Castle,57.0070229,-3.3985651,castle
+Lima,-12.06338,-77.03379,capital
+Arequipa,-16.409047,-71.537451,
+Colca Canyon,-15.609329,-72.089623,viewpoint
+Cusco,-13.53195,-71.967463,city
+Pulcalpa,-8.392862,-74.582617,city
+Iquitos,-3.743673,-73.251633,city
+Wellington,,,capital
+Auckland,,,city
+Los Angeles,34.052234,-118.243685,city
+Honalulu,21.306944,-157.858333,city
+Kahului,20.894722,-156.47,city
+Kailua-Kona,19.639994,-155.996926,city
+Hilo,19.729722,-155.09,city
+Lihue,21.981111,-159.371111,city
+Volcano,,,city
+Volcano National Park,,,np
+Kailua,,,lodge
+Pearl Harbour,,,viewpoint
+Hana,,,city
+Lahaina,,,city
+Wailuku,,,city
+Kealakekua,,,np
+Tokyo,35.68095,139.76692,capital
+Hakone,35.232355,139.106937,city
+Nikkō,36.74729,139.62242,unesco
+Kyoto,35.011636,135.768029,unesco
+Osaka,34.6852929,135.5146944,city
+Himeji,34.8160532,134.6854525,unesco
+Hiroshima,34.385203,132.455293,unesco
+Miyajima,34.301569,132.322683,unesco
+Nara,34.68044,135.8188,unesco
+Cebu city,10.3090298,123.8930839,city
+Tagbilaran,9.649661685670587,123.84956359863281,city
+Tarsier Sanctuary,9.700052194555646,123.93726110458374,viewpoint
+Chocolate Hills,9.832287842682158,124.19391095638274,unesco
+Loboc,9.6364434,124.0318967,city
+Gemas,2.579964,102.611682,city
+Malacca,2.192503,102.250099,city
+Kuala Lumpur,3.1570976,101.7009528,capital
+Kota Bharu,6.11842,102.20070,city
+Tanah Rata,4.470820,101.378920,city
+Ipoh,4.61175,101.113506,city
+George city,5.41792,100.329597,city
+Kuching,1.530976,110.34422,city
+Sibu,2.310033,111.840041,city
+Miri,4.333131,113.99486,city
+Bander Seri Bagawan,4.90522,114.94808,capital
+Siem Reap,13.361177,103.860283,city
+Battambang,13.097844,103.198528,city
+Phnom Penh,11.568271,104.9224426,capital
+Ho Chi Minh city,10.823099,106.629664,city
+Da Lat,11.94542,108.442101,city
+Da Nang,16.051571,108.214897,city
+Hoi An,15.88030,108.327860,city
+Hué,16.4498,107.56235,city
+Ha Noi,21.0292095,105.85247,capital
+Hong Kong,22.3858294,114.1623665,city
+Macau,22.1919514,113.5381216,city
+Taipei,25.0375167,121.5637,capital
+Nanning,22.8302,108.31564,city
+Beijing,39.90242,116.4257,capital
+Ulaanbaatar,47.9462225,106.975911816806,capital
+Hustai National Park,,,np
+Ulan-Ude,51.833333,107.6,city
+Irkutsk,52.283333,104.3,city
+Bolshoe Goloustnoe,52.027031,105.405228,city
+Krasnoyarsk,56.012746,92.922361,city
+Ekaterinberg,56.833333,60.6,city
+Perm,58.013889,56.248889,city
+Kungur,57.42385,56.99684999999999,city
+Kirov,58.6,49.65,city
+Kazan,55.800556,49.105556,city
+Saint Petersberg,59.93428,30.335099,unesco
+Moscow,55.7516147,37.6187012,capital
+Minsk,53.902253,27.561863,capital
+Brest,52.1005644,23.6803009,castle
+Warsaw,52.2319237,21.0067265,capital
+Bratislava,48.1535383,17.1096711,capital
+Budapest,47.48141835,19.1460275064335,capital
+București,44.436139,26.1027436,capital
+Sinaia,45.3457565307617,25.5481624603271,palace
+Brașov,45.66617055,25.6002083461056,city
+Râșnov,45.592191,25.4610457,castle
+Bran,45.5188313,25.369231764889,castle
+Hărman,45.7067919,25.685619,unesco
+Sibiu,45.7973912,24.1519202,city
+Horezu,45.14550,23.989980,unesco
+Sighisoara,46.2176969,24.7937765,unesco
+Cluj-Napoca,46.7693367,23.5900604,city
+Suceava,47.6472323,26.2515719,unesco
+Ruse,43.8481033,25.9543124,city
+Ivanovo,43.69846,25.94037,unesco
+Sofia,42.6977149,23.3230598,capital
+Rila Monastery,42.13379,23.34052,unesco
+Plovdiv,42.1419118,24.7498385,city
+Veliko Tarnovo,43.0820584,25.6321312,
+Buzludzha,42.7389369,25.3896565,viewpoint
+Burgas,42.4942274,27.4550161,city
+Istanbul,41.0096334,28.9651646,city
+Bergama,39.1114785,27.1821527,unesco
+Selçuk,37.9473335,27.3693261,unesco
+Pamukkale,37.9164906,29.1193081,unesco
+Fethiye,36.62386,29.132540000000002,city
+Ölüdeniz,36.5487201,29.1241495,city
+Alanya,36.5522041,31.9934485,unesco
+Kızkalesi,36.4607992,34.1432486,unesco
+Tasuçu,36.3209591,33.8828791,unesco
+Kyrenia/Girne,35.34167,33.31667,city
+Nicosia/Lefkosia,35.17394,33.36467,capital
+Paphos,34.77812,32.42257,unesco
+Şanlıurfa,37.15764,38.78096,city
+Mardin,37.32074,40.72365,city
+Göreme,38.64294,34.82902,unesco
+Mount Nemrut,37.98145,38.74327,unesco
+Entebbe,0.0617743,32.4693641,city
+Kampala,0.3162223,32.5821691,capital
+Nkingo,0.416667,30.4,city
+Kibale National Park,0.45078815,30.4300028302862,np
+Kasese,0.1728,30.085950000000004,city
+Queen Elizabeth National Park,-0.25205665,29.8903051380388,np
+Mbarara,-0.61072,30.653420000000004,city
+Bushara Island,-1.288360252611777,29.923067092895508,city
+Bwindi Backpackers,-1.1367528850868427,29.67535972595215,lodge
+Bwindi Impenetrable National Park,-1.0031325,29.6475413014364,np
+Kisoro,-1.3374639680603773,29.737243652343746,city
+Kigali,-1.9508511,30.0615075,capital
+Benaco,-2.4951673636680027,30.85201263427734,city
+Mwanza,-2.5190054556627444,32.895469665527344,city
+Serengeti National Park,-2.3713057,34.708967112999,np
+Ngorongoro Conservation Area,-3.0611525,35.4209189962205,np
+Manyara National Park,-3.5349022,35.7582555834738,np
+Arusha,-3.36628,36.69113,city
+Dar Es Salaam,-6.81402,39.27939000000001,city
+Stone Town,-6.157280813253411,39.19209480285644,city
+Mbeya,-8.90903,33.46928,city
+Mzuzu,-11.46082,34.0229,city
+Nkhata Bay,-11.60716,34.29797,city
+Kande,-11.951586026638054,34.12353515625,city
+Lilongwe,-13.98628,33.78057,capital
+Chipata,-13.63901,32.64551,city
+South Luangwa National Park,-13.0872863,31.4549746305221,np
+Wildlife Camp,,,lodge
+Bush Camp,,,lodge
+Lusaka,-15.41681,28.28141,capital
+Livingstone,-17.85307,25.86182,capital
+Mosi o Tunya National Park,-17.88483455,25.8506391527802,np
+Kasane,-17.803161653352067,25.160880088806152,city
+Chobe National Park,-18.5526083,24.3995792518858,np
+Planet Baobab,-20.1898587,25.3058330115127,lodge
+Maun,-19.98695,23.421940000000003,city
+Okavango Delta,-19.30717395,22.6324522643171,np
+Windhoek,-22.574720000000003,17.07897,city
+Outjo,-20.110424814293314,16.154708862304688,city
+Etosha National Park,-18.98402695,15.7506484706479,np
+Okaukuejo,-19.179868262224076,15.919189453124998,lodge
+Otjitotongwe Cheetah Park,-19.594402043388495,15.07118225097656,lodge
+Spitzkoppe,-21.841104749065032,15.186538696289062,viewpoint
+Swakopmund,-22.676748056714803,14.522209167480469,city
+Sesriem,-24.48900367586458,15.801687240600584,lodge
+Namib Naukluft National Park,-24.63378955,15.53579,np
+Seeheim,-26.8154,17.8003,lodge
+Ai Ais,-27.91787578,17.48879148,lodge
+Fish River Canyon,-27.577087732770497,17.60859489440918,viewpoint
+Ai-Ais Richtersveld Transfrontier Park,-27.90337145,17.0855923558938,np
+Cañon Roadhouse,-27.5219,17.8175,lodge
+Orange River,-28.696502835,17.49877308,lodge
+Highlands,-31.900464504,18.649910798,lodge
+Cape Town,-33.9245599419849,18.422698974609375,city
+Simon's Town,-34.19801578,18.453425205,city
+Huot Bay,-34.0457,18.3566,city
+Stellenbosch,-33.93439,18.86916,city
+Hermanus,-34.41751,19.23647,city
+Gaansbaai,-34.62211950052119,19.31636810302734,city
+Mosselbaai,-34.18305,22.153630000000003,city
+Knysna,-34.03547,23.04855,city
+Plettensberg Bay,-34.05422388685684,23.372383117675778,city
+Jeffery's Bay,-34.051308268862826,24.919996261596676,city
+Port Elizabeth,-33.94256,25.5323,city
+Burgersdorp,-30.995563005321035,26.328821182250977,city
+Maseru,-29.31012,27.4781,capital
+Semonkong,-29.840069999999997,28.051269999999942,city
+Clarens,-28.5137431,28.419444,city
+Dagbreek Gastehuis,-26.9662374181723,28.53376865386963,lodge
+Malelane,-25.48132407367578,31.548399925231934,city
+Kruger National Park,-23.9167724,31.4910158543858,np
+Pretoriuskop,-25.1695236022339,31.26983642578125,lodge
+Johannesburg,-26.204649999999983,28.049670000000013,city
+Incheon,37.44936,126.4528,city
+Iksan,35.931339,126.943739,city
+Geonsansa,,,
+Daedunsan,,,
+Jeonju,35.82427,127.148059,city
+Busan,35.1797,129.07652,city
+Séoul,37.55187,126.9707,capital
+Jeju City,,,city
+Hallasan,,,np
+Shanghai,31.22534,121.4889,city
+Zhajiajiao,31.11333,121.05174,city
+Suzhou,31.330549,120.6064,unesco
+Xi'An,34.376639,108.93409,unesco
+Huashan,34.58364,110.0928,city
+Changsha,28.1873765,112.9835823,city
+Wulingyuan,29.352139,110.56384,city
+Yichang,30.6625,111.3622,city
+Chengdu,30.69917,104.070839,city
+Kathmandu,27.71134,85.31512,capital
+Bhaktapur,27.67207,85.42817999999995,city
+Nagarkot,27.718509,85.519719,city
+Pokhara,28.200919,83.97248,city
+Nayapul,,,city
+Ulleri,,,lodge
+Ghorepani,,,lodge
+Poon Hill,viewpoint
+Ghandruk,,,lodge
+Annapurna National Park,,,np
+Gorakhpur,26.76002,83.36682000000006,city
+Varanasi,25.32686,82.98646,city
+Agra,27.18328,78.018049,unseco
+Jaipur,26.920849,75.785059,unesco
+Jodhpur,26.2989301,73.0334001,city
+Mumbai,18.9523804,72.8327112,unesco
+Madgaon,15.267419,73.96989,city
+Patnam Beach,14.99589,74.050559,lodge
+Chennai,13.0804251,80.281807,city
